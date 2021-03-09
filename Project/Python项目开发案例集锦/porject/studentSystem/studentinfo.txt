@@ -1,1 +1,0 @@
-{'id': '25', 'name': 'wd', 'english': 12, 'python': 23, 'c': 34}
